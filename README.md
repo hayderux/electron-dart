@@ -1,4 +1,4 @@
-# electron-quick-start-flutter
+# electron-quick-start-dart
 A minimal Electron application with dart
 
 ![Screenshot](screenshots/main.png)
